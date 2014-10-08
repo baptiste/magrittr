@@ -1,4 +1,4 @@
-magrittr -  Ceci n'est pas un pipe.
+magrittr -  Ceci n'est pas une pipe.
 ====================================
 
 [![Build Status](https://travis-ci.org/smbache/magrittr.png?branch=dev)](https://travis-ci.org/smbache/magrittr)
